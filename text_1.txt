@@ -1,0 +1,2 @@
+sample check file to load from git to local using 
+1 --> git pull
